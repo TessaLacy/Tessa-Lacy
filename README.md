@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TessaLacy
-- 👀 I’ve just started coding
-- 🌱 I’m currently learning everything. Like...I'm struggling with Scratch.
-- 💞️ I’m looking to collaborate on nothing. I'm useless at this at the moment. But I'll get there. 
+- 👀 I'm currently working on a BS in Computer Science
+- 🌱 I’ve just started my coding journey 
 - 📫 I'm at tessalacy@gmail.com
 
 <!---
